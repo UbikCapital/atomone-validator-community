@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Ubik Capital  | https://ubik.capital/  | https://x.com/ubikcapital  | Romania | ubikcapital  | contact@ubik.capital  | ubikcapital   |  CFFC7D9CF748617AD7A60F3A679955723F175C1285C006C5BD502A2740B3338E |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
